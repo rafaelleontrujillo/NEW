@@ -1,0 +1,54 @@
+/* NEW PORTFOLIO - RAFAEL LEON - 2023 */
+
+
+body {
+  background-color: #f9e3b8;
+}
+
+div#container {
+
+            position: relative;
+			margin: 0 auto;
+			width: 950px;
+			
+}
+
+div#head {
+
+            position: absolute;
+			left: 1px;		
+			top: 25px;
+			width: 950px;
+			height: 650px;
+			
+}
+
+div#center {
+
+            position: absolute;
+			left: 10px;		
+			top: 430px;
+			width: 900px;
+			font-family: arial;
+			font-size: 23px;
+			hyphens: auto;			
+}
+
+div#animation {
+
+            position: absolute;
+			left: 1px;		
+			top: 690px;
+			width: 950px;						
+}
+
+div#footer{
+
+            position: absolute;
+			left: 10px;		
+			top: 1165px;
+			width: 900px;
+			font-family: arial;
+			font-size: 23px;
+			hyphens: auto;			
+}
